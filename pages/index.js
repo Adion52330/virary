@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className="">
       <Head>
-        <title>Virary - Best Vritual Library</title>
+        <title>Virary - Best Virtual Library</title>
         <link rel="icon" href="/virary2.png" />
         <meta
           name="description"
