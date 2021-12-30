@@ -13,6 +13,7 @@ export default function Home() {
           name="description"
           content="Bookworm like me? Want to take note of each book you read for free? Virary is the answer. Store all your books into your account anywhere and anytime. Access them anytime, anywhere. Virary is the best virtual library. Store them easily via ISBN or use custom add."
         />
+    <meta name="robots" content="noindex,nofollow" />
       </Head>
 
       <div>
