@@ -41,7 +41,7 @@ const Main = () => {
   console.log(books);
 
   return (
-    <div className="md:p-10 py-10 px-2 flex justify-center md:justify-around lg:justify-center items-stretch space-y-5 md:space-x-10 flex-wrap">
+    <div className="md:p-10 py-10 px-4 flex justify-center md:justify-around lg:justify-center items-stretch space-y-5 md:space-x-10 flex-wrap">
       {user ? (
         <>
           {books.map((book) => {
